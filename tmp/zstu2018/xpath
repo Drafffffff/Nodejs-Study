@@ -1,0 +1,13 @@
+文章地址
+//ul[@class='right_vter']/div/a/@href
+下页
+/html/body/div[2]/div[2]/div[2]/div/table/tbody/tr/td/table/tbody/tr/td[2]/div/a[1]
+
+
+
+
+父节点
+//ul[@class='right_vter']/div[not(@style='display:none;height:30px;')]
+
+文章内容
+//*[@id="vsb_content"]/p
